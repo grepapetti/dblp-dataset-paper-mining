@@ -1,0 +1,1121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-11">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Label" type="string" />
+      <attribute id="1" title="Community" type="long" />
+      <attribute id="2" title="Betweenness" type="double" />
+      <attribute id="3" title="Degree" type="long" />
+    </attributes>
+    <nodes>
+      <node id="W4380302034" label="W4380302034">
+        <attvalues>
+          <attvalue for="0" value="A Multi-Platform Collection of Social Media Posts about the 2022 U.S. Midterm Elections" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.00943" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4380302074" label="W4380302074">
+        <attvalues>
+          <attvalue for="0" value="VaxxHesitancy: A Dataset for Studying Hesitancy towards COVID-19 Vaccination on Twitter" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4399205168" label="W4399205168">
+        <attvalues>
+          <attvalue for="0" value="TweetIntent@Crisis: A Dataset Revealing Narratives of Both Sides in the Russia-Ukraine Crisis" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4312747999" label="W4312747999">
+        <attvalues>
+          <attvalue for="0" value="Many Ways to Be Lonely: Fine-Grained Characterization of Loneliness and Its Potential Changes in COVID-19" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2798683079" label="W2798683079">
+        <attvalues>
+          <attvalue for="0" value="CrisisMMD: Multimodal Twitter Datasets from Natural Disasters" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.01548" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W3208543775" label="W3208543775">
+        <attvalues>
+          <attvalue for="0" value="Open Benchmarking for Click-Through Rate Prediction" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.03596" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W2897495521" label="W2897495521">
+        <attvalues>
+          <attvalue for="0" value="W2E: A Worldwide-Event Benchmark Dataset for Topic Detection and Tracking" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00251" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W3124364749" label="W3124364749">
+        <attvalues>
+          <attvalue for="0" value="VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.13362" />
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </node>
+      <node id="W4387846231" label="W4387846231">
+        <attvalues>
+          <attvalue for="0" value="GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W621249151" label="W621249151">
+        <attvalues>
+          <attvalue for="0" value="CREDBANK: A Large-Scale Social Media Corpus With Associated Credibility Annotations" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.01411" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+      <node id="W4306317022" label="W4306317022">
+        <attvalues>
+          <attvalue for="0" value="Interactive Contrastive Learning for Self-Supervised Entity Alignment" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.00015" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4312313312" label="W4312313312">
+        <attvalues>
+          <attvalue for="0" value="The Reddit Politosphere: A Large-Scale Text and Network Resource of Online Political Discourse" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W3094045953" label="W3094045953">
+        <attvalues>
+          <attvalue for="0" value="CC-News-En: A Large English News Corpus" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00398" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4385562549" label="W4385562549">
+        <attvalues>
+          <attvalue for="0" value="CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4312494946" label="W4312494946">
+        <attvalues>
+          <attvalue for="0" value="FactDrill: A Data Repository of Fact-Checked Social Media Content to Study Fake News Incidents in India" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4403582411" label="W4403582411">
+        <attvalues>
+          <attvalue for="0" value="Benchmarking Challenges for Temporal Knowledge Graph Alignment" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3093688662" label="W3093688662">
+        <attvalues>
+          <attvalue for="0" value="GeoLink Cruises: A Non-Synthetic Benchmark for Co-Reference Resolution on Knowledge Graphs" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3034334126" label="W3034334126">
+        <attvalues>
+          <attvalue for="0" value="ORCAS: 20 Million Clicked Query-Document Pairs for Analyzing Search" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3208981019" label="W3208981019">
+        <attvalues>
+          <attvalue for="0" value="Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised Query Reformulation" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4412877063" label="W4412877063">
+        <attvalues>
+          <attvalue for="0" value="UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3021927925" label="W3021927925">
+        <attvalues>
+          <attvalue for="0" value="A Dataset of Fact-Checked Images Shared on WhatsApp During the Brazilian and Indian Elections" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.01411" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W4401857203" label="W4401857203">
+        <attvalues>
+          <attvalue for="0" value="CompanyKG: A Large-Scale Heterogeneous Graph for Company Similarity Quantification" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3208996364" label="W3208996364">
+        <attvalues>
+          <attvalue for="0" value="Machamp: A Generalized Entity Matching Benchmark" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3049302648" label="W3049302648">
+        <attvalues>
+          <attvalue for="0" value="MLM: A Benchmark Dataset for Multitask Learning with Multiple Languages and Modalities" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00413" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4403577323" label="W4403577323">
+        <attvalues>
+          <attvalue for="0" value="M3: A Multi-Image Multi-Modal Entity Alignment Dataset" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3018696946" label="W3018696946">
+        <attvalues>
+          <attvalue for="0" value="Event-QA: A Dataset for Event-Centric Question Answering over Knowledge Graphs" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00869" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W3200686557" label="W3200686557">
+        <attvalues>
+          <attvalue for="0" value="Cross-Market Product Recommendation" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.02741" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4385567868" label="W4385567868">
+        <attvalues>
+          <attvalue for="0" value="TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations at Twitter" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.02954" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W4387847123" label="W4387847123">
+        <attvalues>
+          <attvalue for="0" value="FlaCGEC: A Chinese Grammatical Error Correction Dataset with Fine-grained Linguistic Annotation" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4312444981" label="W4312444981">
+        <attvalues>
+          <attvalue for="0" value="Measuring the Monetary Value of Online Volunteer Work" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3153548528" label="W3153548528">
+        <attvalues>
+          <attvalue for="0" value="CoVaxxy: A Collection of English-Language Twitter Posts About COVID-19 Vaccines" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.01444" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W4403577377" label="W4403577377">
+        <attvalues>
+          <attvalue for="0" value="Covid19-twitter: A Twitter-based Dataset for Discourse Analysis in Sentence-level Sentiment Classification" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2986273318" label="W2986273318">
+        <attvalues>
+          <attvalue for="0" value="TianGong-ST: A New Dataset with Large-scale Refined Real-world Web Search Sessions" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00251" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W2977413798" label="W2977413798">
+        <attvalues>
+          <attvalue for="0" value="The Hoaxy Misinformation and Fact-Checking Diffusion Network" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.03343" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="W3094422017" label="W3094422017">
+        <attvalues>
+          <attvalue for="0" value="The Enslaved Dataset: A Real-world Complex Ontology Alignment Benchmark using Wikibase" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4411120820" label="W4411120820">
+        <attvalues>
+          <attvalue for="0" value="Labeled Datasets for Research on Information Operations" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2574434649" label="W2574434649">
+        <attvalues>
+          <attvalue for="0" value="Social Media Participation in an Activist Movement for Racial Equality" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.03165" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="W4403577402" label="W4403577402">
+        <attvalues>
+          <attvalue for="0" value="Advancing Multivariate Time Series Anomaly Detection: A Comprehensive Benchmark with Real-World Data from Alibaba Cloud" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4401863339" label="W4401863339">
+        <attvalues>
+          <attvalue for="0" value="EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4312768622" label="W4312768622">
+        <attvalues>
+          <attvalue for="0" value="TWikiL - the Twitter Wikipedia Link Dataset" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4312499740" label="W4312499740">
+        <attvalues>
+          <attvalue for="0" value="FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.00185" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W3033757400" label="W3033757400">
+        <attvalues>
+          <attvalue for="0" value="Beyond Positive Emotion: Deconstructing Happy Moments Based on Writing Prompts" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2884014654" label="W2884014654">
+        <attvalues>
+          <attvalue for="0" value="AceKG: A Large-scale Knowledge Graph for Academic Data Mining" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00398" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W2537308293" label="W2537308293">
+        <attvalues>
+          <attvalue for="0" value="ASNets: A Benchmark Dataset of Aligned Social Networks for Cross-Platform User Modeling" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2810503719" label="W2810503719">
+        <attvalues>
+          <attvalue for="0" value="LearningQ: A Large-Scale Dataset for Educational Question Generation" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00354" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4399205774" label="W4399205774">
+        <attvalues>
+          <attvalue for="0" value="iDRAMA-Scored-2024: A Dataset of the Scored Social Media Platform from 2020 to 2023" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2810902748" label="W2810902748">
+        <attvalues>
+          <attvalue for="0" value="Follow the &quot;Mastodon&quot;: Structure and Evolution of a Decentralized Online Social Network" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3116510227" label="W3116510227">
+        <attvalues>
+          <attvalue for="0" value="YouNiverse: Large-Scale Channel and Video Metadata from English-Speaking YouTube" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4381708538" label="W4381708538">
+        <attvalues>
+          <attvalue for="0" value="VRDU: A Benchmark for Visually-rich Document Understanding" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="0.00029" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4401863235" label="W4401863235">
+        <attvalues>
+          <attvalue for="0" value="Dólares or Dollars? Unraveling the Bilingual Prowess of Financial LLMs Between Spanish and English" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3209939081" label="W3209939081">
+        <attvalues>
+          <attvalue for="0" value="Question Rewriting for Open-Domain Conversational QA: Best Practices and Limitations" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4399205777" label="W4399205777">
+        <attvalues>
+          <attvalue for="0" value="Assessing the Impact of Online Harassment on Youth Mental Health in Private Networked Spaces" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3210022786" label="W3210022786">
+        <attvalues>
+          <attvalue for="0" value="MDFEND: Multi-domain Fake News Detection" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.03775" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="W4306317348" label="W4306317348">
+        <attvalues>
+          <attvalue for="0" value="SCC - A Test Collection for Search in Chat Conversations" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.00472" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W3175498457" label="W3175498457">
+        <attvalues>
+          <attvalue for="0" value="TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.07993" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="W2947681066" label="W2947681066">
+        <attvalues>
+          <attvalue for="0" value="Assessing The Factual Accuracy of Generated Text" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.00192" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4312839192" label="W4312839192">
+        <attvalues>
+          <attvalue for="0" value="BelElect: A New Dataset for Bias Research from a &quot;Dark&quot; Platform" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3093988619" label="W3093988619">
+        <attvalues>
+          <attvalue for="0" value="BioKG: A Knowledge Graph for Relational Learning On Biological Data" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4380551147" label="W4380551147">
+        <attvalues>
+          <attvalue for="0" value="SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and Its Evaluation" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4290927927" label="W4290927927">
+        <attvalues>
+          <attvalue for="0" value="DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="0.00029" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W3122571625" label="W3122571625">
+        <attvalues>
+          <attvalue for="0" value="A Dataset of State-Censored Tweets" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.00943" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W2794685318" label="W2794685318">
+        <attvalues>
+          <attvalue for="0" value="Sampling the News Producers: A Large News and Feature Data Set for the Study of the Complex Media Landscape" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4412876875" label="W4412876875">
+        <attvalues>
+          <attvalue for="0" value="ChineseEcomQA: A Scalable E-commerce Concept Evaluation Benchmark for Large Language Models" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4288079520" label="W4288079520">
+        <attvalues>
+          <attvalue for="0" value="ContentWise Impressions: An Industrial Dataset with Impressions Included" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.00479" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W3154639321" label="W3154639321">
+        <attvalues>
+          <attvalue for="0" value="Cross-Partisan Discussions on YouTube: Conservatives Talk to Liberals but Liberals Don't Talk to Conservatives" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.00747" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4412876983" label="W4412876983">
+        <attvalues>
+          <attvalue for="0" value="TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2536435413" label="W2536435413">
+        <attvalues>
+          <attvalue for="0" value="SoLSCSum: A Linked Sentence-Comment Dataset for Social Context Summarization" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.00139" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4412876880" label="W4412876880">
+        <attvalues>
+          <attvalue for="0" value="CityBench: Evaluating the Capabilities of Large Language Models for Urban Tasks" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4416018112" label="W4416018112">
+        <attvalues>
+          <attvalue for="0" value="FediData: A Comprehensive Multi-Modal Fediverse Dataset from Mastodon" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4380302094" label="W4380302094">
+        <attvalues>
+          <attvalue for="0" value="Invasion@Ukraine: Providing and Describing a Twitter Streaming Dataset That Captures the Outbreak of War between Russia and Ukraine in 2022" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.01857" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W3093938929" label="W3093938929">
+        <attvalues>
+          <attvalue for="0" value="The Newspaper Navigator Dataset: Extracting Headlines and Visual Content from 16 Million Historic Newspaper Pages in Chronicling America" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2767845755" label="W2767845755">
+        <attvalues>
+          <attvalue for="0" value="Analysis of Telegram, An Instant Messaging Service" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.01492" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="W3094475872" label="W3094475872">
+        <attvalues>
+          <attvalue for="0" value="MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2991447357" label="W2991447357">
+        <attvalues>
+          <attvalue for="0" value="Characterizing the Use of Images in State-Sponsored Information Warfare Operations by Russian Trolls on Twitter" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.00121" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="W4312339199" label="W4312339199">
+        <attvalues>
+          <attvalue for="0" value="Twitter-STMHD: An Extensive User-Level Database of Multiple Mental Health Disorders" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4401863414" label="W4401863414">
+        <attvalues>
+          <attvalue for="0" value="RareBench: Can LLMs Serve as Rare Diseases Specialists?" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2953954626" label="W2953954626">
+        <attvalues>
+          <attvalue for="0" value="Mastodon Content Warnings: Inappropriate Contents in a Microblogging Platform" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.02691" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="W4399205800" label="W4399205800">
+        <attvalues>
+          <attvalue for="0" value="IsamasRed: A Public Dataset Tracking Reddit Discussions on Israel-Hamas Conflict" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2963446316" label="W2963446316">
+        <attvalues>
+          <attvalue for="0" value="Thou Shalt Not Hate: Countering Online Hate Speech" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0263" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W3150521545" label="W3150521545">
+        <attvalues>
+          <attvalue for="0" value="CrisisBench: Benchmarking Crisis-related Social Media Datasets for Humanitarian Information Processing" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W2612937920" label="W2612937920">
+        <attvalues>
+          <attvalue for="0" value="EmojiNet: An Open Service and API for Emoji Sense Discovery" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.00118" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4292423901" label="W4292423901">
+        <attvalues>
+          <attvalue for="0" value="KuaiRec: A Fully-observed Dataset and Insights for Evaluating Recommender Systems" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.05666" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W2954891557" label="W2954891557">
+        <attvalues>
+          <attvalue for="0" value="Shouting into the Void: A Database of the Alternative Social Media Platform Gab" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.00811" />
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </node>
+      <node id="W4403582503" label="W4403582503">
+        <attvalues>
+          <attvalue for="0" value="3DLNews: A Three-decade Dataset of US Local News Articles" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.01789" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4401863947" label="W4401863947">
+        <attvalues>
+          <attvalue for="0" value="FNSPID: A Comprehensive Financial News Dataset in Time Series" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4387846225" label="W4387846225">
+        <attvalues>
+          <attvalue for="0" value="ITA-ELECTION-2022: A Multi-Platform Dataset of Social Media Conversations Around the 2022 Italian General Election" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.03239" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W4412876997" label="W4412876997">
+        <attvalues>
+          <attvalue for="0" value="HiBench: Benchmarking LLMs Capability on Hierarchical Structure Reasoning" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4380302040" label="W4380302040">
+        <attvalues>
+          <attvalue for="0" value="HateMM: A Multi-Modal Dataset for Hate Video Classification" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.01083" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4411121024" label="W4411121024">
+        <attvalues>
+          <attvalue for="0" value="TeleScope A Longitudinal Dataset for Investigating Online Discourse and Information Interaction on Telegram" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2796881724" label="W2796881724">
+        <attvalues>
+          <attvalue for="0" value="Peer to Peer Hate: Hate Speech Instigators and Their Targets" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W4411120995" label="W4411120995">
+        <attvalues>
+          <attvalue for="0" value="WikiReddit: Tracing Information and Attention Flows Between Online Platforms" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4399205563" label="W4399205563">
+        <attvalues>
+          <attvalue for="0" value="The Koo Dataset: An Indian Microblogging Platform with Global Ambitions" />
+          <attvalue for="1" value="19" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2954365773" label="W2954365773">
+        <attvalues>
+          <attvalue for="0" value="NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.07187" />
+          <attvalue for="3" value="13" />
+        </attvalues>
+      </node>
+      <node id="W4399837592" label="W4399837592">
+        <attvalues>
+          <attvalue for="0" value="EUvsDisinfo: A Dataset for Multilingual Detection of Pro-Kremlin Disinformation in News Articles" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.03724" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W2983867426" label="W2983867426">
+        <attvalues>
+          <attvalue for="0" value="A Benchmark for Fact Checking Algorithms Built on Knowledge Bases" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4401857444" label="W4401857444">
+        <attvalues>
+          <attvalue for="0" value="LaDe: The First Comprehensive Last-mile Express Dataset from Industry" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4399205394" label="W4399205394">
+        <attvalues>
+          <attvalue for="0" value="Machine-Made Media: Monitoring the Mobilization of Machine-Generated Articles on Misinformation and Mainstream News Websites" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0111" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4224509134" label="W4224509134">
+        <attvalues>
+          <attvalue for="0" value="&quot;I Can't Keep It Up.&quot; A Dataset from the Defunct Voat.co News Aggregator" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.00044" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4385562787" label="W4385562787">
+        <attvalues>
+          <attvalue for="0" value="ShuttleSet: A Human-Annotated Stroke-Level Singles Dataset for Badminton Tactical Analysis" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3094347401" label="W3094347401">
+        <attvalues>
+          <attvalue for="0" value="MIMICS: A Large-Scale Data Collection for Search Clarification" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.01857" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W2810121253" label="W2810121253">
+        <attvalues>
+          <attvalue for="0" value="BuzzFace: A News Veracity Dataset with Facebook User Commentary and Egos" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.00515" />
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </node>
+      <node id="W4412877035" label="W4412877035">
+        <attvalues>
+          <attvalue for="0" value="Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3094231056" label="W3094231056">
+        <attvalues>
+          <attvalue for="0" value="A Large Test Collection for Entity Aspect Linking" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W2280557596" label="W2280557596">
+        <attvalues>
+          <attvalue for="0" value="On Analyzing Hashtags in Twitter" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4306317038" label="W4306317038">
+        <attvalues>
+          <attvalue for="0" value="A Multi-Domain Benchmark for Personalized Search Evaluation" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W3003044879" label="W3003044879">
+        <attvalues>
+          <attvalue for="0" value="The Pushshift Telegram Dataset" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.02077" />
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </node>
+      <node id="W2621010329" label="W2621010329">
+        <attvalues>
+          <attvalue for="0" value="Spatio-Temporal Analysis of Reverted Wikipedia Edits" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4380302122" label="W4380302122">
+        <attvalues>
+          <attvalue for="0" value="#RoeOverturned: Twitter Dataset on the Abortion Rights Controversy" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="W4385567856" label="W4385567856">
+        <attvalues>
+          <attvalue for="0" value="FedMultimodal: A Benchmark for Multimodal Federated Learning" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4313195819" label="W4313195819">
+        <attvalues>
+          <attvalue for="0" value="FA-KES: A Fake News Dataset around the Syrian War" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="0.03094" />
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </node>
+      <node id="W4383175703" label="W4383175703">
+        <attvalues>
+          <attvalue for="0" value="SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4312804490" label="W4312804490">
+        <attvalues>
+          <attvalue for="0" value="A Large-Scale Longitudinal Multimodal Dataset of State-Backed Information Operations on Twitter" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.00943" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="W3175294292" label="W3175294292">
+        <attvalues>
+          <attvalue for="0" value="HumAID: Human-Annotated Disaster Incidents Data from Twitter with Deep Learning Benchmarks" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="0.01317" />
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </node>
+      <node id="W4401863589" label="W4401863589">
+        <attvalues>
+          <attvalue for="0" value="LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4387849079" label="W4387849079">
+        <attvalues>
+          <attvalue for="0" value="A Test Collection of Synthetic Documents for Training Rankers: ChatGPT vs. Human Experts" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="W4387854274" label="W4387854274">
+        <attvalues>
+          <attvalue for="0" value="KuaiSAR: A Unified Search And Recommendation Dataset" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.07209" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W4380302039" label="W4380302039">
+        <attvalues>
+          <attvalue for="0" value="Just Another Day on Twitter: A Complete 24 Hours of Twitter Data" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="0.02163" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+      <node id="W4292419518" label="W4292419518">
+        <attvalues>
+          <attvalue for="0" value="KuaiRand: An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="W4380302034" target="W3124364749" id="0" weight="4" />
+      <edge source="W4380302034" target="W4387846225" id="1" weight="2" />
+      <edge source="W4380302034" target="W4399205168" id="2" weight="1" />
+      <edge source="W4380302074" target="W3153548528" id="3" weight="2" />
+      <edge source="W4312747999" target="W4312444981" id="4" weight="1" />
+      <edge source="W2798683079" target="W2977413798" id="5" weight="1" />
+      <edge source="W2798683079" target="W3175294292" id="6" weight="21" />
+      <edge source="W2798683079" target="W3150521545" id="7" weight="38" />
+      <edge source="W2798683079" target="W4385567856" id="8" weight="9" />
+      <edge source="W2798683079" target="W2536435413" id="9" weight="1" />
+      <edge source="W3208543775" target="W4292423901" id="10" weight="1" />
+      <edge source="W3208543775" target="W4292419518" id="11" weight="3" />
+      <edge source="W3208543775" target="W3200686557" id="12" weight="1" />
+      <edge source="W2897495521" target="W2986273318" id="13" weight="3" />
+      <edge source="W2897495521" target="W2884014654" id="14" weight="1" />
+      <edge source="W2897495521" target="W3094231056" id="15" weight="1" />
+      <edge source="W3124364749" target="W2991447357" id="16" weight="3" />
+      <edge source="W3124364749" target="W2954365773" id="17" weight="1" />
+      <edge source="W3124364749" target="W621249151" id="18" weight="2" />
+      <edge source="W3124364749" target="W2977413798" id="19" weight="1" />
+      <edge source="W3124364749" target="W3153548528" id="20" weight="1" />
+      <edge source="W3124364749" target="W3175498457" id="21" weight="1" />
+      <edge source="W3124364749" target="W4387846225" id="22" weight="2" />
+      <edge source="W3124364749" target="W4387854274" id="23" weight="1" />
+      <edge source="W3124364749" target="W2767845755" id="24" weight="1" />
+      <edge source="W3124364749" target="W4380302094" id="25" weight="1" />
+      <edge source="W4387846231" target="W4385562787" id="26" weight="1" />
+      <edge source="W621249151" target="W2574434649" id="27" weight="2" />
+      <edge source="W621249151" target="W2612937920" id="28" weight="2" />
+      <edge source="W621249151" target="W2810121253" id="29" weight="40" />
+      <edge source="W621249151" target="W2794685318" id="30" weight="2" />
+      <edge source="W621249151" target="W2991447357" id="31" weight="1" />
+      <edge source="W621249151" target="W2954365773" id="32" weight="14" />
+      <edge source="W621249151" target="W4313195819" id="33" weight="8" />
+      <edge source="W621249151" target="W2977413798" id="34" weight="2" />
+      <edge source="W621249151" target="W3210022786" id="35" weight="4" />
+      <edge source="W621249151" target="W4312494946" id="36" weight="2" />
+      <edge source="W621249151" target="W3021927925" id="37" weight="1" />
+      <edge source="W4306317022" target="W2537308293" id="38" weight="1" />
+      <edge source="W4306317022" target="W3093988619" id="39" weight="1" />
+      <edge source="W4312313312" target="W4380302094" id="40" weight="1" />
+      <edge source="W4312313312" target="W4380302122" id="41" weight="1" />
+      <edge source="W3094045953" target="W3049302648" id="42" weight="2" />
+      <edge source="W3094045953" target="W2986273318" id="43" weight="1" />
+      <edge source="W3094045953" target="W4387849079" id="44" weight="1" />
+      <edge source="W4385562549" target="W2810503719" id="45" weight="1" />
+      <edge source="W4385562549" target="W4387847123" id="46" weight="1" />
+      <edge source="W4312494946" target="W2810121253" id="47" weight="2" />
+      <edge source="W4403582411" target="W4403577323" id="48" weight="1" />
+      <edge source="W3093688662" target="W3094422017" id="49" weight="1" />
+      <edge source="W3034334126" target="W2986273318" id="50" weight="1" />
+      <edge source="W3208981019" target="W3208996364" id="51" weight="1" />
+      <edge source="W4412877063" target="W4412876875" id="52" weight="1" />
+      <edge source="W3021927925" target="W2991447357" id="53" weight="6" />
+      <edge source="W3021927925" target="W4313195819" id="54" weight="1" />
+      <edge source="W3021927925" target="W2810121253" id="55" weight="2" />
+      <edge source="W3021927925" target="W3003044879" id="56" weight="1" />
+      <edge source="W4401857203" target="W4401863414" id="57" weight="1" />
+      <edge source="W3049302648" target="W3018696946" id="58" weight="1" />
+      <edge source="W3018696946" target="W2884014654" id="59" weight="1" />
+      <edge source="W3018696946" target="W2810503719" id="60" weight="1" />
+      <edge source="W3018696946" target="W2947681066" id="61" weight="1" />
+      <edge source="W3200686557" target="W3094347401" id="62" weight="1" />
+      <edge source="W4385567868" target="W3210022786" id="63" weight="2" />
+      <edge source="W4385567868" target="W4383175703" id="64" weight="2" />
+      <edge source="W4385567868" target="W3175498457" id="65" weight="1" />
+      <edge source="W4385567868" target="W3150521545" id="66" weight="2" />
+      <edge source="W4385567868" target="W2612937920" id="67" weight="1" />
+      <edge source="W4387847123" target="W2810503719" id="68" weight="1" />
+      <edge source="W3153548528" target="W4312499740" id="69" weight="1" />
+      <edge source="W3153548528" target="W2977413798" id="70" weight="1" />
+      <edge source="W4403577377" target="W4399205800" id="71" weight="1" />
+      <edge source="W2977413798" target="W2810121253" id="72" weight="3" />
+      <edge source="W2977413798" target="W2954365773" id="73" weight="2" />
+      <edge source="W2977413798" target="W4313195819" id="74" weight="1" />
+      <edge source="W2977413798" target="W2991447357" id="75" weight="1" />
+      <edge source="W4411120820" target="W4312804490" id="76" weight="1" />
+      <edge source="W2574434649" target="W2612937920" id="77" weight="2" />
+      <edge source="W2574434649" target="W2796881724" id="78" weight="1" />
+      <edge source="W2574434649" target="W2280557596" id="79" weight="1" />
+      <edge source="W2574434649" target="W3154639321" id="80" weight="1" />
+      <edge source="W2574434649" target="W3175498457" id="81" weight="1" />
+      <edge source="W4403577402" target="W4412876983" id="82" weight="1" />
+      <edge source="W4401863339" target="W3210022786" id="83" weight="1" />
+      <edge source="W4312768622" target="W4411120995" id="84" weight="1" />
+      <edge source="W4312499740" target="W3210022786" id="85" weight="1" />
+      <edge source="W3033757400" target="W4312339199" id="86" weight="1" />
+      <edge source="W2884014654" target="W4306317038" id="87" weight="1" />
+      <edge source="W4399205774" target="W4399205563" id="88" weight="1" />
+      <edge source="W2810902748" target="W2953954626" id="89" weight="7" />
+      <edge source="W3116510227" target="W3122571625" id="90" weight="1" />
+      <edge source="W4381708538" target="W4290927927" id="91" weight="1" />
+      <edge source="W4381708538" target="W4412876997" id="92" weight="1" />
+      <edge source="W4401863235" target="W4401863947" id="93" weight="2" />
+      <edge source="W3209939081" target="W3094347401" id="94" weight="2" />
+      <edge source="W3209939081" target="W4306317348" id="95" weight="1" />
+      <edge source="W4399205777" target="W2963446316" id="96" weight="1" />
+      <edge source="W3210022786" target="W2810121253" id="97" weight="3" />
+      <edge source="W3210022786" target="W3175294292" id="98" weight="1" />
+      <edge source="W3210022786" target="W4313195819" id="99" weight="1" />
+      <edge source="W3210022786" target="W4399837592" id="100" weight="1" />
+      <edge source="W4306317348" target="W3094347401" id="101" weight="1" />
+      <edge source="W3175498457" target="W2991447357" id="102" weight="3" />
+      <edge source="W3175498457" target="W4312804490" id="103" weight="1" />
+      <edge source="W3175498457" target="W2810121253" id="104" weight="1" />
+      <edge source="W3175498457" target="W4416018112" id="105" weight="1" />
+      <edge source="W2947681066" target="W3094475872" id="106" weight="1" />
+      <edge source="W4312839192" target="W3003044879" id="107" weight="1" />
+      <edge source="W4380551147" target="W3175294292" id="108" weight="1" />
+      <edge source="W4290927927" target="W3093938929" id="109" weight="2" />
+      <edge source="W3122571625" target="W4380302039" id="110" weight="1" />
+      <edge source="W2794685318" target="W2954365773" id="111" weight="2" />
+      <edge source="W4288079520" target="W4292419518" id="112" weight="1" />
+      <edge source="W4288079520" target="W4292423901" id="113" weight="1" />
+      <edge source="W3154639321" target="W4380302039" id="114" weight="2" />
+      <edge source="W2536435413" target="W3175294292" id="115" weight="1" />
+      <edge source="W4412876880" target="W4412877035" id="116" weight="1" />
+      <edge source="W4380302094" target="W4380302122" id="117" weight="1" />
+      <edge source="W4380302094" target="W2767845755" id="118" weight="2" />
+      <edge source="W2767845755" target="W2953954626" id="119" weight="1" />
+      <edge source="W2767845755" target="W2954365773" id="120" weight="1" />
+      <edge source="W2767845755" target="W2954891557" id="121" weight="1" />
+      <edge source="W2767845755" target="W4313195819" id="122" weight="1" />
+      <edge source="W2767845755" target="W3003044879" id="123" weight="10" />
+      <edge source="W2991447357" target="W4312804490" id="124" weight="3" />
+      <edge source="W2953954626" target="W2954891557" id="125" weight="4" />
+      <edge source="W2953954626" target="W2954365773" id="126" weight="1" />
+      <edge source="W2953954626" target="W4313195819" id="127" weight="1" />
+      <edge source="W2953954626" target="W3003044879" id="128" weight="1" />
+      <edge source="W2963446316" target="W2796881724" id="129" weight="32" />
+      <edge source="W2963446316" target="W2621010329" id="130" weight="1" />
+      <edge source="W2963446316" target="W2954365773" id="131" weight="1" />
+      <edge source="W2963446316" target="W4380302040" id="132" weight="1" />
+      <edge source="W3150521545" target="W3175294292" id="133" weight="18" />
+      <edge source="W4292423901" target="W4292419518" id="134" weight="23" />
+      <edge source="W4292423901" target="W4387854274" id="135" weight="2" />
+      <edge source="W2954891557" target="W2954365773" id="136" weight="1" />
+      <edge source="W2954891557" target="W4313195819" id="137" weight="1" />
+      <edge source="W2954891557" target="W3003044879" id="138" weight="4" />
+      <edge source="W2954891557" target="W4224509134" id="139" weight="1" />
+      <edge source="W4403582503" target="W4399205394" id="140" weight="1" />
+      <edge source="W4403582503" target="W4387846225" id="141" weight="1" />
+      <edge source="W4403582503" target="W4399837592" id="142" weight="1" />
+      <edge source="W4387846225" target="W4387854274" id="143" weight="1" />
+      <edge source="W4387846225" target="W4399837592" id="144" weight="1" />
+      <edge source="W4380302040" target="W2796881724" id="145" weight="4" />
+      <edge source="W4380302040" target="W4380302039" id="146" weight="1" />
+      <edge source="W4411121024" target="W3003044879" id="147" weight="1" />
+      <edge source="W2954365773" target="W4313195819" id="148" weight="7" />
+      <edge source="W2954365773" target="W2810121253" id="149" weight="10" />
+      <edge source="W2954365773" target="W2983867426" id="150" weight="1" />
+      <edge source="W2954365773" target="W2621010329" id="151" weight="1" />
+      <edge source="W2954365773" target="W4399837592" id="152" weight="1" />
+      <edge source="W4399837592" target="W4313195819" id="153" weight="1" />
+      <edge source="W4401857444" target="W4401863589" id="154" weight="1" />
+      <edge source="W4399205394" target="W4380302039" id="155" weight="1" />
+      <edge source="W4224509134" target="W3003044879" id="156" weight="1" />
+      <edge source="W2810121253" target="W4313195819" id="157" weight="8" />
+      <edge source="W4387854274" target="W4292419518" id="158" weight="4" />
+    </edges>
+  </graph>
+</gexf>

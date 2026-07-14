@@ -104,11 +104,24 @@ Brittle keyword rules are replaced by **semantic understanding** with a **zero-s
 ```
 dblp-dataset-paper-mining/
 ├── README.md
+├── data/                                    # curated datasets (see data/README.md)
+│   ├── 03_5_gold_nlp_validated.csv          #   → 438 validated dataset-papers
+│   ├── 05_citation_network_nodes.csv        #   → citation network (6,581 nodes)
+│   ├── 05_citation_network_edges.csv        #   → citation network (6,613 edges)
+│   ├── 06_cocitation_nodes.csv              #   → co-citation network (118 nodes)
+│   ├── 06_cocitation_edges.csv              #   → co-citation network (159 edges)
+│   └── 06_cocitation_network.gexf           #   → co-citation graph, open in Gephi
 └── notebook/
-    └── ScrapingDBLP_pipeline.ipynb   # full pipeline (Bronze → Silver → Gold → Network)
+    └── ScrapingDBLP_pipeline.ipynb          # full pipeline (Bronze → Silver → Gold → Network)
 ```
 
 The notebook is organized into modules, one per pipeline stage, with outputs and figures already executed.
+
+## 📁 Data
+
+The **[`data/`](data/)** folder ships the curated outputs so the analysis is **reproducible without re-scraping**: the 438 validated dataset-papers, and the citation & co-citation networks (also as a Gephi `.gexf`). See **[`data/README.md`](data/README.md)** for the column schema.
+
+Everything comes from public sources (DBLP, OpenAlex/CC0). Paper **abstracts are not redistributed** — OpenAlex serves them only as an inverted index to respect copyright.
 
 ---
 
