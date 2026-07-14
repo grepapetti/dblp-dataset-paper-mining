@@ -147,7 +147,7 @@ Everything comes from public sources (DBLP, OpenAlex/CC0). Paper **abstracts are
 
 ## 👤 Author
 
-Thesis project in **Web & Data Science**, Politecnico di Milano.
+Project in **Web & Data Science**, Politecnico di Milano.
 Supervisor: **Prof. Francesco Pierri**.
 
 <sub>Data comes from public sources (DBLP, OpenAlex) and is used for academic research purposes.</sub>
